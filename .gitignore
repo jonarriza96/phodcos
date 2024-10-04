@@ -1,0 +1,6 @@
+__pycache__/
+*.cpython-36.pyc
+*.pkl
+c_generated_code/
+acados_solver*
+*.pdf
