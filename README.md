@@ -8,7 +8,15 @@
 If you use this framework please cite our work:
 
 ```
-Coming soon
+@misc{arrizabalaga2024phodcospythagoreanhodographbaseddifferentiable,
+      title={PHODCOS: Pythagorean Hodograph-based Differentiable Coordinate System}, 
+      author={Jon Arrizabalaga and Fausto Vega and Zbyněk ŠÍR and Zachary Manchester and Markus Ryll},
+      year={2024},
+      eprint={2410.07750},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2410.07750}, 
+}
 ```
 
 ## Quickstart
