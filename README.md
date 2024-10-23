@@ -2,7 +2,7 @@
 **PHoDCOS — Pythagorean Hodograph-based Differentiable Coordinate System**
 ![Logo](examples/data/figures/nrho_cover.png)
 
-<!-- For the implementation details, please check the [paper](coming soon ...)  -->
+For the implementation details, please check the [paper](https://arxiv.org/pdf/2410.07750).
 <!-- and/or watch the [video](coming soon ...). -->
 
 If you use this framework please cite our work:
